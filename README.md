@@ -2,7 +2,9 @@
 
 # Details for replication
 Use 'data-waldron-et-al.xlsx' and 'replication-analysis-waldron-et-al.R' to reproduce the analysis reported in the origional review.
+
 Use 'data-jb-db-extraction.xlsx' and 'main-reanalysis.R' to replicate our re-analysis.
+
 Use 'data-jb-db-extraction.xlsx' and 'leave-one-out-reanalysis.R' to replicate our leave-one-out analysis.
 
 # Analysis not reported in our article
