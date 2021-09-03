@@ -1,5 +1,4 @@
-# ha-vo2max
-The effects of heat acclimation and acclimatisation on maximal aerobic capacity in thermoneutral conditions: A Re-analysis of Waldron et al. (2020) published in Sports Medicine.
+# The effects of heat acclimation and acclimatisation on maximal aerobic capacity in thermoneutral conditions: A Re-analysis of Waldron et al. (2020) published in Sports Medicine.
 
 # Details for replication
 Use 'data-waldron-et-al.xlsx' and 'replication-analysis-waldron-et-al.R' to reproduce the analysis reported in the origional review.
